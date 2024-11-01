@@ -1,6 +1,6 @@
 # Base de Datos de Global Gym 🎃
 
-Esta base de datos esta diseñada con el fin de servir como gestor para el centro deportivo Global_Gym, la cual permitira al usuario realizar diferentes consultas e inserciones.
+Esta base de datos esta diseñada con el fin de servir como gestor para el centro deportivo Global_Gym, la cual permitira al usuario realizar diferentes consultas e inserciones. (Fue realizado unicamente con fines de practicar bases de datos relacionales)
 
 ## Tabla de contenido 📋
 
